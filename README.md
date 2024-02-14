@@ -5,7 +5,10 @@
   <h1 style="color: #000066;">Diary+ - Your Closest Companion</h1>
 
   <h2 style="color: #000066;">Overview</h2>
-  <img src ="https://tse1.mm.bing.net/th?id=OIP.1VJKfDu_CCGShGGKAKE9RAHaE8&pid=Api&P=0&h=220" align="right"/>
+  <img src ="https://github.com/IyenshiAUT/Diary-Mobile-Application/blob/main/intro.PNG?raw=true" align="right"
+     width="35%"/>
+  <img src ="https://github.com/IyenshiAUT/Diary-Mobile-Application/blob/main/App%20Icon%20In%20Phone.jpg?raw=true" align="right"
+     width="20%"/>
 
   <p>This is a crossplatform mobile application project to maintain dynamic diaries, have mood tips to manage the day and managing daily tasks. It makes the way easy to user to use a diary in mobile phone and as well as it works as a silent supporter for user.</p>
 
